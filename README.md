@@ -35,6 +35,7 @@
   
   
  <b>Core technologies:</b>
+  
  ![Java](https://img.shields.io/badge/JavaSE-%3E%3D%2014-orange)
 ![Java](https://img.shields.io/badge/JavaEE-%3E%3D%208-succes)  ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
 ![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
