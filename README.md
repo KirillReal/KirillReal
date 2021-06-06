@@ -5,7 +5,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=KirillReal
 # Мои проекты
 <ul>
   <li>
-    <strong><a href="https://github.com/KirillReal/job4j_cars">"Car Sales"</a></strong> Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
+    <strong><a href="https://github.com/KirillReal/job4j_car">"Car Sales"</a></strong> Java EE, Servlets, JSP, JSTL, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock
   </li>
   <li>
     <strong><a href="https://github.com/KirillReal/job4j_forum">"Forum"</a></strong> Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku
