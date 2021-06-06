@@ -1,6 +1,6 @@
 # Привет,меня зовут Кирилл. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillReal)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillReal)
 
 # Мои проекты
 <ul>
